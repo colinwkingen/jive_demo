@@ -1,0 +1,27 @@
+
+.nameList {
+	margin-left: 25px;	
+	position: absolute;
+}
+
+.versionList {
+	margin-left: 200px;
+	position:absolute;
+}
+
+.notesList {
+	margin-left: 375px;
+	position: absolute;
+}
+
+.error {
+	color: #C00;
+}
+
+ul {
+	list-style: none;
+}
+li {
+	font-size: 1.1em;
+	padding: 3px;
+}
